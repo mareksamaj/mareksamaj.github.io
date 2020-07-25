@@ -1,2 +1,1 @@
-# Hello world!!
-## Place for H2
+# Hello world!
