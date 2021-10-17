@@ -4,16 +4,16 @@ title: Changelog
 permalink: /changelog/
 ---
 
-One of the reason I have this blog is to keep sharp on basic dev stuff which I no longer use that often. Hence I created this changelog to keep track on what I did and what sources I used. It should be easier to read here than in the commit history...
+One of the reason I have this blog is to keep sharp on basic dev skills which I no longer use that often. Hence I created this changelog to keep track on how I customised the site and which resources I used. It should be easier to read here than in the commit history...
 
 ### 15092021 GitHub Pages Jekyll - skeleton
 - [set up site with Jekyll][setup-gh-pages-jekyll]
-- setup Jekyll locally under [wsl][wsl] in Windows 11 [build 10.0.22000.184][w11-build-184]
+- setup Jekyll locally under [WSL][wsl] in Windows 11 [build 10.0.22000.184][w11-build-184]
 - develop & test skeleton site locally (minima theme)
-- publish an empty blog on mareksamaj.github.io
+- publish an empty blog with basic customisations only (e.g. config.yml keys) on mareksamaj.github.io
 
 ### 28092021
-- layout and front matter changes on the home page: [overriding theme defaults][overriding-theme-defaults]
+- layout and front matter changes on the home page, e.g. customising the minima theme: [overriding theme defaults][overriding-theme-defaults]
 
 ### 30092021
 - google-analytics setup via built-in key in minima: [enabling Google Analytics][minima-ga] 
