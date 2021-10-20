@@ -3,7 +3,7 @@ layout: page
 title: How I Work
 permalink: /how-i-work/
 ---
-I really like the "How I work" articles that keep appearing recently. In my opinion they are super useful to set the the scene about how a person operates. Of course this is by no means for anyone to adjust to my style nor I'm enforcing every word written below but rather something to consider when we work together.
+I really like the "How I work" articles that keep appearing. In my opinion they are super useful to set the scene about how a person operates. Of course this is by no means for anyone to adjust to my style nor I'm enforcing every word written below but rather something to consider when we work together.
 
 
 ### Working with Marek
