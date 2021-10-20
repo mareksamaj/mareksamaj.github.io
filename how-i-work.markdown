@@ -3,14 +3,17 @@ layout: page
 title: How I Work
 permalink: /how-i-work/
 ---
+I really like the "How I work" articles that keep appearing recently. In my opinion they are super useful to set the the scene about how a person operates. Of course this is by no means for anyone to adjust to my style nor I'm enforcing every word written below but rather something to consider when we work together.
 
+
+### Working with Marek
 I work 8:30am to 4:00pm GMT and then often 9:00pm to 10:30pm GMT. The time between, including weekends, I aim to reserve for my family and personal projects.
 
 Family is wife and two young kids (age 3 and 1). I try to avoid overnight stays and travel if possible. If you need someone to spend couple of days a week at a customer site, I won't be the right fit for such gig at the moment.
 
-If you get an IM or email from me at odd times, you do not need to respond to it that moment. Do it at your own time. It it would be really urgent, I usually call.
+If you get an IM or email from me at odd times, you do not need to respond to it that moment. Do it at your own time.
 
-I strongly believe in a culture of written, asynchronous communication to get things done and to:
+I believe in a culture of written, asynchronous communication to get things done and to:
 - avoid people feeling left out if not able to join a meeting
 - protect focused work
 - clearly articulate and refine ideas
@@ -18,8 +21,6 @@ I strongly believe in a culture of written, asynchronous communication to get th
 I write more than I talk and share what I write.
 
 Before setting up a meeting, please ask - "Can I write this down/will this be useful for others?" Let’s have a conversation in the document/work item before setting up meetings. 
-
-No meetings for generic status updates please, this can be done asynchronously.
 
 Outcomes vs activity.
 
