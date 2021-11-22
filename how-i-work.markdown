@@ -30,4 +30,4 @@ I learn from my mentors as well as from mentoring others. Investing in others' s
 
 I highly value feedback, and welcome it. Thank you in advance!
 
-I work mostly remotely but I believe in value of meeting in-person. It's important for me to meet with people we work with from time to time.
+I work mostly remotely but I believe in value of meeting in-person. It's important for me to meet with people we work with.
