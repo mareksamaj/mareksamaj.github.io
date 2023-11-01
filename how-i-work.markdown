@@ -3,13 +3,13 @@ layout: page
 title: How I Work
 permalink: /how-i-work/
 ---
-I enjoy reading the "How I work" articles that I see on personal blogs. In my opinion they are really useful to capture how a person operates. Of course this is by no means for anyone to adjust to my style nor I'm enforcing everything written below. It is also evolving and I keep updating this reference based on learnings and change of my preferences.
+I enjoy reading the "How I work" articles that I see on personal blogs. In my opinion they are really useful to describe how a person operates. Of course it doesn't mean anyone needs to adjust to my style nor that I'm enforcing everything written below. It is also evolving and I keep updating this reference based on learnings and change in my preferences.
 
 
 ### Working with Marek
 I usually work 9:00am to 4:30pm GMT and then often 9:00pm to 10:30pm GMT. The time between, including weekends, I aim to reserve for my family and personal projects.
 
-Family is wife and two young kids (age 5 and 3). I try to avoid frequent overnight stays and travel if possible. If you need someone to regularly spend 2-3 nights in a week at a customer site, I won't be the right fit for such gig at the moment.
+Family is wife and two young kids (age 5 and 3). I try to avoid frequent overnight stays and travel if possible. If you need someone to spend 2-3 nights away at a customer site every week, I won't be the right fit for such a gig at the moment.
 
 If you get an IM or email from me at odd times, you do not need to respond to it that moment. Do it at your own time.
 
