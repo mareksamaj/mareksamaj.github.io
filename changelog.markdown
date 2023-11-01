@@ -6,6 +6,12 @@ permalink: /changelog/
 
 One of the reason I have this blog is to keep sharp on basic dev skills which I no longer use that often. Hence I created this changelog to keep track on how I customised the site and which resources I used. Only high-level changes are captured here, further details & minor changes are available in commit history.
 
+### 01112023
+- Jekyll dev environment moved to Ubuntu 22.04
+- plugins update
+- migrate to Google Analytics 4 (GA4)
+- add assets folder with first image
+
 ### 30092021
 - google-analytics setup via built-in key in minima: [enabling Google Analytics][minima-ga] 
 
